@@ -22,11 +22,6 @@ Eye Candy
 Make the best looking map you can! the puzzle is _optional_ in this theme.
 
 
-Gel this mess
--
-The test must feature at least 1 gel type and cubes.
-
-
 Small is beetter (used in 2nd competition)
 -
 The chambers must be small, so less or equal to 8x8x8 (witdh, height, lenght)
