@@ -7,11 +7,6 @@ Glitches
 The test must involve a glitch of some kind.
 
 
-Ohgodno
--
-Shitpost :tiny_potato:
-
-
 Turrets
 -
 The test must feature turrets.
