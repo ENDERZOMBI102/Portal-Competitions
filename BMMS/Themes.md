@@ -87,7 +87,7 @@ Coop or Companion Cube test.
 
 Reuse and Recycle
 -
-At least one of the elements in the chamber must have multiple purposes in the solution of the puzzle.
+At least one of the elements in the chamber must serve multiple purposes in the solution of the puzzle.
 
 
 Involuntary Solution Associate
