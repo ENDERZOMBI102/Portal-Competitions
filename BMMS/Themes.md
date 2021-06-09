@@ -79,6 +79,27 @@ Must only use elements featured in Old Aperture test chambers.
 Includes Cubes, Buttons, Cube Buttons, Any Fizzlers, Lifeform Sensors, and the three Gels.
 Old Aperture style is not necessary.
 
+
 Togheter Forever
 -
-Coop or Companion Cube test
+Coop or Companion Cube test.
+
+
+Reuse and Recycle
+-
+At least one of the elements in the chamber must have multiple purposes in the solution of the puzzle.
+
+
+Involuntary Solution Associate
+-
+Must have some sort of cheese.
+
+
+Captain Chell Treasure Tracker
+-
+Must have at least 3 secrets, with different ways of obtaining them.
+
+
+Disco Balls
+-
+Must use Colored Lights (Lib Lights or Konclan's colored light strips) and Edgeless Safety Cubes.
