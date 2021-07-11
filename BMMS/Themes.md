@@ -85,7 +85,7 @@ Togheter Forever
 Coop or Companion Cube test.
 
 
-Reuse and Recycle
+Reuse and Recycle (used in 3rd competition)
 -
 At least one of the elements in the chamber must serve multiple purposes in the solution of the puzzle.
 
